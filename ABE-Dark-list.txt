@@ -2,11 +2,11 @@
 ! Title: ABE Dark list
 ! Description: List of semi curated domains known to have suspicious activities around finance, crypto, investment products and others from https://www.abe-infoservice.fr
 !
-! Compiled by hand v0.0.1
+! Compiled by hand v0.0.2
 !
 !
 ! Source name: ABE Dark list
-! Source: https://github.com/tboucheau/ABE-Dark-list/ABE-Dark-list.txt
+! Source: https://raw.githubusercontent.com/tboucheau/ABE-Dark-list/main/ABE-Dark-list.txt
 !
 ! Title: 1Hosts (Lite)
 ! Last modified: 2024-04-27T12:46:29.395Z
@@ -1201,7 +1201,7 @@
 ||www.fortis-corporate.com^
 ||clconseil-patrimoine.com^
 ||gestion-republic.com^
-||fidélis.com^
+||fidÃ©lis.com^
 ||avenirgroupe.com^
 ||www.avenirgroupe.com^
 ||ambaro-administration.com^
@@ -4460,7 +4460,7 @@
 ||www.bkcfinance.com^
 ||www.adninterfinance.com^
 ||gaud-finance.com^
-||www.facebook.com/Atradius-Service-Dassurance-Crédit-et-de-Financement-105059381559512^
+||www.facebook.com/Atradius-Service-Dassurance-CrÃ©dit-et-de-Financement-105059381559512^
 ||doric-select.com^
 ||eclipse-options.com^
 ||arc-valores.com^
@@ -6864,7 +6864,7 @@
 ||www.cryptomonaies.com^
 ||www.cryptomoney888.com^
 ||www.cryptoeraonline.com^
-||Delaplace Stéphane (Union-crypto.com)^
+||Delaplace StÃ©phane (Union-crypto.com)^
 ||www.raceoption.com^
 ||www.binarycent.com^
 ||www.videforex.com^
