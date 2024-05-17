@@ -2,17 +2,17 @@
 ! Title: ABE Dark list
 ! Description: List of semi curated domains known to have suspicious activities around finance, crypto, investment products and others from https://www.abe-infoservice.fr
 !
-! Compiled by hand v0.0.2
+! Compiled by hand v0.0.3
 !
 !
 ! Source name: ABE Dark list
 ! Source: https://raw.githubusercontent.com/tboucheau/ABE-Dark-list/main/ABE-Dark-list.txt
 !
-! Title: 1Hosts (Lite)
-! Last modified: 2024-04-27T12:46:29.395Z
+! Title: ABE Dark list
+! Last modified: 2024-05-17T18:25:29.395Z
 ! ..............
 !  |URL: https://github.com/tboucheau/ABE-Dark-list
-!  |Count: 7,398 rules!
+!  |Count: 7,397 rules!
 !  |Size: 177Ko
 !  |
 !  |Licence: MPLv2,
