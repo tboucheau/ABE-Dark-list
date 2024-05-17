@@ -1,22 +1,57 @@
 !
 ! Title: ABE Dark list
-! Description: List of semi curated domains known to have suspicious activities around finance, crypto, investment products and others from https://www.abe-infoservice.fr
+! Description: List of semi curated domains known to have suspicious activities around finance, crypto, investment products and others from https://www.abe-infoservice.fr and https://acpe.banque-france.fr.
 !
-! Compiled by hand v0.0.3
+! Compiled by hand v0.0.4
 !
 !
 ! Source name: ABE Dark list
 ! Source: https://raw.githubusercontent.com/tboucheau/ABE-Dark-list/main/ABE-Dark-list.txt
 !
 ! Title: ABE Dark list
-! Last modified: 2024-05-17T18:25:29.395Z
+! Last modified: 2024-05-17T18:30:00.000Z
 ! ..............
 !  |URL: https://github.com/tboucheau/ABE-Dark-list
-!  |Count: 7,397 rules!
+!  |Count: 7,432 rules!
 !  |Size: 177Ko
 !  |
 !  |Licence: MPLv2,
 !  | https://www.mozilla.org/en-US/MPL/2.0/
+||www.aeexc.lat^
+||www.bitecx.com^
+||www.bitoasis.ai^
+||cybercapital.ltd^
+||elitetrader.io^
+||epargne-crypto.io^
+||www.exopip.com^
+||geetle.com^
+||oneglobal-advr.com^
+||quantumfundsgroup.net^
+||www.rivegarde.com^
+||activefinancial.trade^
+||akselinvest.pro^
+||algo-management.co^
+||baccocapital.pro^
+||brown-fin.com^
+||byou360invest.com^
+||corsaircontrol.pro^
+||www.crytomerge.com^
+||www.ellandroadcapital.com^
+||gainful-markets.com^
+||gestiondupatrimoine.net^
+||guardianinvest.co^
+||importcapital.cc^
+||mgmglobal.com^
+||www.morgencharles.business^
+||www.mt4gestion.com^
+||north-trader.com^
+||omegapro.in^
+||platform.gainfulmarkets-tech.com^
+||sallixcapital.com^
+||success26inv.com^
+||tangent-capital.pro^
+||tidetechnologiesgroup.ltd^
+||www.universaltrade.io^
 ||cz17443.tw1.ru^
 ||quick-legend-9696.typedream.app^
 ||gestiontransatlantique.com^
